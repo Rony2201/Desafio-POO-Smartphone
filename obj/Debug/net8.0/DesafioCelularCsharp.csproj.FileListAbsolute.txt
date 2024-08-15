@@ -1,0 +1,14 @@
+C:\Users\ronie\OneDrive\Documentos\ProjetosCshartpAll\DesafioCelularCsharp\bin\Debug\net8.0\DesafioCelularCsharp.exe
+C:\Users\ronie\OneDrive\Documentos\ProjetosCshartpAll\DesafioCelularCsharp\bin\Debug\net8.0\DesafioCelularCsharp.deps.json
+C:\Users\ronie\OneDrive\Documentos\ProjetosCshartpAll\DesafioCelularCsharp\bin\Debug\net8.0\DesafioCelularCsharp.runtimeconfig.json
+C:\Users\ronie\OneDrive\Documentos\ProjetosCshartpAll\DesafioCelularCsharp\bin\Debug\net8.0\DesafioCelularCsharp.dll
+C:\Users\ronie\OneDrive\Documentos\ProjetosCshartpAll\DesafioCelularCsharp\bin\Debug\net8.0\DesafioCelularCsharp.pdb
+C:\Users\ronie\OneDrive\Documentos\ProjetosCshartpAll\DesafioCelularCsharp\obj\Debug\net8.0\DesafioCelularCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronie\OneDrive\Documentos\ProjetosCshartpAll\DesafioCelularCsharp\obj\Debug\net8.0\DesafioCelularCsharp.AssemblyInfoInputs.cache
+C:\Users\ronie\OneDrive\Documentos\ProjetosCshartpAll\DesafioCelularCsharp\obj\Debug\net8.0\DesafioCelularCsharp.AssemblyInfo.cs
+C:\Users\ronie\OneDrive\Documentos\ProjetosCshartpAll\DesafioCelularCsharp\obj\Debug\net8.0\DesafioCelularCsharp.csproj.CoreCompileInputs.cache
+C:\Users\ronie\OneDrive\Documentos\ProjetosCshartpAll\DesafioCelularCsharp\obj\Debug\net8.0\DesafioCelularCsharp.dll
+C:\Users\ronie\OneDrive\Documentos\ProjetosCshartpAll\DesafioCelularCsharp\obj\Debug\net8.0\refint\DesafioCelularCsharp.dll
+C:\Users\ronie\OneDrive\Documentos\ProjetosCshartpAll\DesafioCelularCsharp\obj\Debug\net8.0\DesafioCelularCsharp.pdb
+C:\Users\ronie\OneDrive\Documentos\ProjetosCshartpAll\DesafioCelularCsharp\obj\Debug\net8.0\DesafioCelularCsharp.genruntimeconfig.cache
+C:\Users\ronie\OneDrive\Documentos\ProjetosCshartpAll\DesafioCelularCsharp\obj\Debug\net8.0\ref\DesafioCelularCsharp.dll
